@@ -16,6 +16,10 @@
 - python os_time.py America/Los_Angeles
 
 
+## Requirements
+- python
+
+
 ## Video:
 - https://youtu.be/vpnprmeFLkM
 
