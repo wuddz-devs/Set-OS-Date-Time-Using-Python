@@ -16,6 +16,10 @@
 - python os_time.py America/Los_Angeles
 
 
+## Video:
+- https://youtu.be/vpnprmeFLkM
+
+
 ## Contact Info:
 - Email:     wuddz_devs@protonmail.com                                                              
 - Github:    https://github.com/wuddz-devs                                                          
