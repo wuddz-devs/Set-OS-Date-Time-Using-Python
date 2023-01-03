@@ -1,7 +1,7 @@
 # Set-OS-Date-Time-Using-Python
 
 ## Description
-- A Simple Python Script I Wrote To Set Both Date & Time On Windows/Linux OS With Python Installed, 
+- A Simple Python Script I Wrote To Set Both Date & Time On Windows/Linux/Mac OS With Python Installed, 
 
 - For Those With Battery Issues Having To Set Date & Time Whenever OS System Boots.
 
@@ -28,8 +28,8 @@
 - Email:     wuddz_devs@protonmail.com                                                              
 - Github:    https://github.com/wuddz-devs                                                          
 - Telegram:  https://t.me/wuddz_devs
-- Youtube:   wuddz-devs
-
+- Youtube:   https://youtube.com/@wuddz-devs
+- Reddit:    https://reddit.com/user/wuddz-devs
 
 ### Buy Me A Coffee!!
 - ERC20 Address: 0x1F1C47dD653Af628D394eac7bAA9Ccf774fd784f
